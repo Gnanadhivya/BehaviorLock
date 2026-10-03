@@ -1,0 +1,15 @@
+# Python cache & virtualenv
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Model artifacts
+models/*.pkl
+*.joblib
+
+# Logs & temp
+*.log
+.DS_Store
